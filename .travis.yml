@@ -6,4 +6,3 @@ php:
 script: phpunit Test.php
 notifications:
   email: false
-  slack: escnteam:7m5UmHNn4NE2Ob7VHU5i4h71
